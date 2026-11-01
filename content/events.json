@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2026-01-26",
+    "title": { "en": "Republic Day celebration", "hi": "गणतंत्र दिवस समारोह" },
+    "category": "celebration",
+    "description": {
+      "en": "Flag hoisting and cultural programme on the school ground.",
+      "hi": "विद्यालय मैदान पर झंडा रोहण और सांस्कृतिक कार्यक्रम।"
+    }
+  },
+  {
+    "date": "2026-03-31",
+    "title": { "en": "Session 2025–26 ends", "hi": "सत्र 2025–26 समाप्त" },
+    "category": "academic",
+    "description": {
+      "en": "Last working day of the academic session.",
+      "hi": "शैक्षणिक सत्र का अंतिम कार्यदिवस।"
+    }
+  },
+  {
+    "date": "2026-04-01",
+    "title": { "en": "New session 2026–27 begins", "hi": "नया सत्र 2026–27 प्रारंभ" },
+    "category": "academic",
+    "description": {
+      "en": "Classes for the new session begin.",
+      "hi": "नए सत्र की कक्षाएँ प्रारंभ होती हैं।"
+    }
+  },
+  {
+    "date": "2025-01-26",
+    "title": { "en": "Republic Day 2025", "hi": "गणतंत्र दिवस 2025" },
+    "category": "celebration",
+    "description": {
+      "en": "Flag hoisting, march-past and cultural items on campus.",
+      "hi": "परिसर में झंडा रोहण, मार्च-पास्ट और सांस्कृतिक कार्यक्रम।"
+    }
+  },
+  {
+    "date": "2025-03-15",
+    "title": { "en": "Farewell 2025", "hi": "विदाई 2025" },
+    "category": "celebration",
+    "description": {
+      "en": "Farewell function for the outgoing class.",
+      "hi": "विदा हो रही कक्षा का विदाई समारोह।"
+    }
+  }
+]

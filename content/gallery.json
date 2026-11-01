@@ -1,0 +1,90 @@
+{
+  "albums": [
+    {
+      "id": "republic-day-2025",
+      "title": { "en": "Republic Day 2025", "hi": "गणतंत्र दिवस 2025" },
+      "date": "2025-01-26",
+      "photos": [
+        {
+          "src": "republic-day-flag.jpg",
+          "width": 640,
+          "height": 640,
+          "alt": {
+            "en": "Flag hoisting on Republic Day at CPS Chakghat",
+            "hi": "सी.पी.एस. चकघाट में गणतंत्र दिवस पर झंडा रोहण"
+          },
+          "caption": {
+            "en": "Flag hoisting ceremony, 26 January 2025",
+            "hi": "झंडा रोहण समारोह, 26 जनवरी 2025"
+          }
+        },
+        {
+          "src": "republic-day-wide.jpg",
+          "width": 360,
+          "height": 640,
+          "alt": {
+            "en": "Students gathered for the Republic Day programme",
+            "hi": "गणतंत्र दिवस कार्यक्रम के लिए एकत्रित विद्यार्थी"
+          },
+          "caption": {
+            "en": "Republic Day programme on the school ground",
+            "hi": "विद्यालय मैदान पर गणतंत्र दिवस कार्यक्रम"
+          }
+        }
+      ]
+    },
+    {
+      "id": "farewell-2025",
+      "title": { "en": "Farewell 2025", "hi": "विदाई 2025" },
+      "date": "2025-03-15",
+      "photos": [
+        {
+          "src": "farewell-trophy.jpg",
+          "width": 640,
+          "height": 640,
+          "alt": {
+            "en": "Student receiving a trophy at the farewell",
+            "hi": "विदाई समारोह में ट्रॉफी प्राप्त करता विद्यार्थी"
+          },
+          "caption": {
+            "en": "Felicitation of the outgoing class",
+            "hi": "विदा हो रही कक्षा का सम्मान"
+          }
+        },
+        {
+          "src": "farewell-speaker.jpg",
+          "width": 640,
+          "height": 640,
+          "alt": {
+            "en": "Speaker addressing students at the farewell function",
+            "hi": "विदाई समारोह में विद्यार्थियों को संबोधित करते वक्ता"
+          },
+          "caption": {
+            "en": "Address to the outgoing class",
+            "hi": "विदा हो रही कक्षा को संबोधन"
+          }
+        }
+      ]
+    },
+    {
+      "id": "campus",
+      "title": { "en": "Campus", "hi": "परिसर" },
+      "date": "2025-02-01",
+      "photos": [
+        {
+          "src": "hero-campus.jpg",
+          "width": 578,
+          "height": 170,
+          "alt": {
+            "en": "CPS Chakghat school building",
+            "hi": "सी.पी.एस. चकघाट विद्यालय भवन"
+          },
+          "caption": {
+            "en": "The school building, Chakghat",
+            "hi": "विद्यालय भवन, चकघाट"
+          }
+        }
+      ]
+    }
+  ]
+}

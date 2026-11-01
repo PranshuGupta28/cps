@@ -1,0 +1,23 @@
+{
+  "_comment": "SAMPLE ONLY — replace with real Class 12 TC data provided by the school. Use scripts/import-tc-csv.mjs to convert a CSV export into this file.",
+  "records": [
+    {
+      "admissionNo": "CPS-2001",
+      "tcNo": "TC12-2024-001",
+      "name": "Sample Senior One",
+      "class": "12",
+      "dob": "2007-03-10",
+      "issueDate": "2024-06-15",
+      "status": "issued"
+    },
+    {
+      "admissionNo": "CPS-2002",
+      "tcNo": "TC12-2025-001",
+      "name": "Sample Senior Two",
+      "class": "12",
+      "dob": "2008-11-30",
+      "issueDate": "2025-06-05",
+      "status": "issued"
+    }
+  ]
+}

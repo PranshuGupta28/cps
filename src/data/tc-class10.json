@@ -1,0 +1,32 @@
+{
+  "_comment": "SAMPLE ONLY — replace with real Class 10 TC data provided by the school. Use scripts/import-tc-csv.mjs to convert a CSV export into this file.",
+  "records": [
+    {
+      "admissionNo": "CPS-1001",
+      "tcNo": "TC10-2024-001",
+      "name": "Sample Student One",
+      "class": "10",
+      "dob": "2009-04-15",
+      "issueDate": "2024-05-10",
+      "status": "issued"
+    },
+    {
+      "admissionNo": "CPS-1002",
+      "tcNo": "TC10-2024-002",
+      "name": "Sample Student Two",
+      "class": "10",
+      "dob": "2009-08-22",
+      "issueDate": "2024-05-10",
+      "status": "issued"
+    },
+    {
+      "admissionNo": "CPS-1003",
+      "tcNo": "TC10-2025-001",
+      "name": "Sample Student Three",
+      "class": "10",
+      "dob": "2010-01-05",
+      "issueDate": "2025-05-02",
+      "status": "issued"
+    }
+  ]
+}
