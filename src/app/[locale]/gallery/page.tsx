@@ -1,3 +1,4 @@
+import CpsPhotoGallery from "@/components/gallery/CpsPhotoGallery";
 import type { Metadata } from "next";
 import { getDictionary, pick, type Locale } from "@/lib/i18n";
 import { school } from "@/data/school";
@@ -71,6 +72,7 @@ export default async function GalleryPage({
           </ButtonLink>
         </div>
       </Section>
+       <CpsPhotoGallery showViewAll={false} />
     </>
   );
 }

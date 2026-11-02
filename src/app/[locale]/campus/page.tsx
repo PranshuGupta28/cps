@@ -1,3 +1,4 @@
+import CpsPhotoGallery from "@/components/gallery/CpsPhotoGallery";
 import type { Metadata } from "next";
 import { getDictionary, type Locale } from "@/lib/i18n";
 import { school } from "@/data/school";
@@ -99,10 +100,17 @@ export default async function CampusPage({
             );
           })}
         </ul>
-        <p className="mt-8 rounded-lg bg-brand-soft px-4 py-3 text-sm text-brand-deep">
+                <p className="mt-8 rounded-lg bg-brand-soft px-4 py-3 text-sm text-brand-deep">
           {c.photoNote}
         </p>
       </Section>
+
+      {/* Campus Photo Gallery */}
+      <CpsPhotoGallery
+        category="Campus & Facilities"
+        title="Our Campus & Facilities"
+      />
+
     </>
   );
 }

@@ -31,7 +31,7 @@ export const school = {
     name: "Mr. Prashant Pathak",
     nameHi: "श्री प्रशांत पाठक",
     title: { en: "Director", hi: "निदेशक" },
-    photo: null as string | null, // TO CONFIRM: portrait needed
+    photo: "/images/director.jpg", // TO CONFIRM: portrait needed
     message: {
       en: "A message from the Director will be published here soon. Please check back shortly.",
       hi: "निदेशक का संदेश शीघ्र ही यहाँ प्रकाशित किया जाएगा।",
